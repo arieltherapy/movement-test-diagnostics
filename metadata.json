@@ -1,0 +1,5 @@
+{
+  "name": "Movement Test Diagnostics",
+  "description": "An application to diagnose movement tests, allowing users to select tests, specify sides (left/right), add notes, and generate a summary report.",
+  "requestFramePermissions": []
+}
