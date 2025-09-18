@@ -1,4 +1,4 @@
-const CACHE = 'mtd-v6'; // מספר חדש = שובר קאש
+const CACHE = 'mtd-v7'; // מספר חדש = שובר קאש
 
 self.addEventListener('install', () => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil(self.clients.claim()));
